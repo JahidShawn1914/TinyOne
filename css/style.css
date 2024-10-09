@@ -88,13 +88,15 @@ header{
 .f-item{
     margin-top: 70px;
 }
-.f-icon{}
 .f-icon i{
     margin-top: 5px;
     font-size: 50px;
     color: #010101;
+    transition: 0.3s;
 }
-.f-text{}
+.f-icon i:hover{
+    transform: scale(0.8);
+}
 .f-text h2{
     margin-bottom: 10px;
     font-size: 22px;

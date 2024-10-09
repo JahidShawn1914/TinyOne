@@ -52,6 +52,24 @@
         font-size: 17px;
         line-height: 25px;
     }
+    .f-item{
+        margin-top: 30px;
+    }
+    .f-icon i{
+        margin-top: 0px;
+        font-size: 35px;
+    }
+    .f-text{
+        text-align: center;
+    }
+    .f-text h2{
+        margin-bottom: 0px;
+        font-size: 20px;
+    }
+    .f-text p{
+        letter-spacing: 0px;
+    }
+    
 }
 
 /* Small devices (landscape phones, 576px and up) */
@@ -105,8 +123,22 @@
         font-size: 17px;
         line-height: 25px;
     }
+    .f-item{
+        margin-top: 30px;
+    }
+    .f-icon i{
+        margin-top: 0px;
+        font-size: 35px;
+    }
     .f-text{
         text-align: center;
+    }
+    .f-text h2{
+        margin-bottom: 0px;
+        font-size: 20px;
+    }
+    .f-text p{
+        letter-spacing: 0px;
     }
 }
 

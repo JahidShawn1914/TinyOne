@@ -1,0 +1,107 @@
+/* common Start */
+body{
+    font-family: "PT Sans", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    color: #898989;
+}
+/* common end */
+/* header start */
+header{
+    background-color: #fcdb00;
+    padding: 20px 0;
+}
+.menu ul li a{
+    font-size: 22px;
+    font-weight: 700;
+    color: #010101 !important;
+    padding: 0 30px !important;
+}
+.menu ul li a:last-child{
+    padding-right: 0 !important;
+}
+.menu ul li a:hover{
+    color: white !important;
+}
+/* header end */
+
+/* slider start */
+.slider{
+    padding-bottom: 100px;
+    background-color: #fcdb00;
+}
+.c-ind{
+    bottom: -80px;
+}
+.c-ind [data-bs-target] {
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    background-color: white;
+}
+.s-text{
+    margin-top: 50px;
+}
+.s-text h1{
+    font-size: 32px;
+    font-weight: 700;
+    color: #010101;
+}
+.s-text h2{
+    margin: 20px 0 ;
+    font-size: 20px;
+    font-weight: 400;
+    color: #313841;
+}
+.s-text p{
+    margin-bottom: 35px;
+    color: #555555;
+}
+.s-icon ul li{
+    margin-right: 30px !important;
+}
+.s-icon ul li i{
+    font-size: 42px;
+    color: black;
+    transition: 0.3s;
+}
+.s-icon ul li i:hover{
+    transform: scale(0.8);
+}
+/* slider end */
+/* feature start */
+.feature{
+    padding-top: 100px;
+    padding-bottom: 120px;
+}
+.c-h1{
+    margin-bottom: 15px;
+    font-size: 32px;
+    font-weight: 700;
+    color: #010101;
+}
+.c-p{
+    font-size: 20px;
+    color: #313841;
+    line-height: 28px;
+}
+.f-item{
+    margin-top: 70px;
+}
+.f-icon{}
+.f-icon i{
+    margin-top: 5px;
+    font-size: 50px;
+    color: #010101;
+}
+.f-text{}
+.f-text h2{
+    margin-bottom: 10px;
+    font-size: 22px;
+    font-weight: 400;
+    color: #010101;
+}
+.f-text p{
+    letter-spacing: 1px;
+}
+/* feature end */

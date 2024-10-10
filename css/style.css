@@ -4,6 +4,11 @@ body{
     font-size: 16px;
     font-weight: 400;
     color: #898989;
+    padding-top: 109px;
+}
+.c-padding{
+    padding-top: 100px;
+    padding-bottom: 120px;
 }
 /* common end */
 /* header start */
@@ -70,10 +75,6 @@ header{
 }
 /* slider end */
 /* feature start */
-.feature{
-    padding-top: 100px;
-    padding-bottom: 120px;
-}
 .c-h1{
     margin-bottom: 15px;
     font-size: 32px;
@@ -107,3 +108,64 @@ header{
     letter-spacing: 1px;
 }
 /* feature end */
+/* contact start */
+.contact{
+    background-color: #010101;
+}
+.yellow{
+    color: #fcdb00;
+}
+.ash{
+    color: #898989;
+}
+.c-form{
+    margin-top: 35px;
+    margin-bottom: 70px;
+}
+.c-input{
+    height: 55px;
+    font-family: "PT Sans", sans-serif;
+    color: #898989;
+    padding: 15px 20px; 
+}
+.c-submit{
+    width: 100%;
+    height: 55px;
+    background-color: #fcdb00;
+    font-family: "PT Sans", sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    color: #010101;
+    text-transform: uppercase;
+}
+.c-submit:hover{
+    background-color: white;
+}
+.c-icon li{
+    margin-right: 30px !important;
+}
+.c-icon li:last-child{
+    margin-right: 0 !important;
+}
+.c-icon li i{
+    font-size: 42px;
+    color: #fcdb00;
+    transition: 0.3s;
+}
+.c-icon li i:hover{
+    color: white;
+}
+/* contact end */
+/* footer start */
+footer{
+    padding-bottom: 120px;
+    background-color: #010101;
+}
+.f-1 address{
+    color: white;
+}
+.f-2 p a{
+    color: white;
+    text-decoration: none;
+}
+/* footer end */

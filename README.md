@@ -6,7 +6,7 @@ This project is a fully responsive website created as a practice exercise. Using
  
  **CSS Framework**: Utilizes Bootstrap for faster styling, consistent components, and layout flexibility.
  
-** Responsiveness**: Adapts seamlessly across various screen sizes, providing an optimal user experience on desktops, tablets, and mobile devices.
+**Responsiveness**: Adapts seamlessly across various screen sizes, providing an optimal user experience on desktops, tablets, and mobile devices.
 # Purpose
 This project was created solely for practice, focusing on learning responsive design principles, utilizing Bootstrap components, and translating a static design file into a functional, adaptable website.
 # Preview: https://jahidshawn1914.github.io/TinyOne/
